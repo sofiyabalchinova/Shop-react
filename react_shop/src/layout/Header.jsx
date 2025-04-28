@@ -5,7 +5,7 @@ export function Header() {
             <div className = "container">
                 <a href="#!" className="brand-logo">React Shop</a>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
-                    <li><a href="#!">Repository</a></li>
+                    <li><a href="https://github.com/sofiyabalchinova/Shop-react">Repository</a></li>
                 </ul>
             </div>
         </div>
